@@ -27,7 +27,7 @@
         android:background="@drawable/buttonshape"
         android:onClick="encryptionButtonClick"
         android:text="@string/advanced_encryption_standard"
-        android:textColor="#000000"
+        android:textColor="#FFEB3B"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -50,6 +50,7 @@
             android:background="@drawable/buttonshape"
             android:onClick="encryptionButtonClick"
             android:text="@string/decrypt"
+            android:textColor="#FFEB3B"
             android:textSize="19sp" />
 
 
